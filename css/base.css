@@ -373,6 +373,9 @@ a:focus {
   color: white;
 }*/
 
+.flex-container {
+	display:flex;
+}
 .back
 {
 	display: none;
