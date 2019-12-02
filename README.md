@@ -2,7 +2,7 @@
 A college Big Data Analysis Lab Website. 
 
 ## Steps to reproduce :
-* CLone the repository
+* Clone the repository
 ```
 git clone https://github.com/muskan6769/BDA_Lab_Website.git
 ```
